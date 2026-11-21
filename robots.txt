@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /config/
+Disallow: /data/
+Disallow: /uploads/
+Disallow: /db/
+Disallow: /.env
+
+Sitemap: https://opg-658.online/sitemap.xml
